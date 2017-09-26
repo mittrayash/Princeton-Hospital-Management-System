@@ -53,9 +53,9 @@ Tests can be carried our in various phases given the software provides access fo
 - Pharmacists
 - Patients
 
-For any of the login portals, a sample entry has been created in the SQL file with the following details:
-USERNAME: user
-PASSWORD: pass
+For any of the login portals, a sample entry has been created in the SQL file with the following details: 
+- USERNAME: user
+- PASSWORD: pass
 Apart from that, for any forgot password pages' testing, use the answer to the recovery question provided in the database tables.
 
 
