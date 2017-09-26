@@ -37,7 +37,7 @@ For editing and launching, using Netbeans would be the best. Furthermore, I can 
 ### Prerequisites
 
 - XAMPP (recommended choice) or MySQL
-- Java
+- Java (version 8 or higher)
 
 End with an example of getting some data out of the system or using it for a little demo
 
