@@ -181,7 +181,7 @@ public class Confirm extends javax.swing.JFrame {
                     PreparedStatement ps2 = c.con.prepareStatement("DELETE FROM appointments;");
                     PreparedStatement ps4 = c.con.prepareStatement("ALTER TABLE appointments AUTO_INCREMENT = 1;");
                     ps2.executeUpdate();
-                    ps4.executeQuery();
+                    ps4.executeUpdate();
                     
                           
                 } catch (SQLException | ClassNotFoundException ex) {

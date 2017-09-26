@@ -352,7 +352,7 @@ public class NewPatient extends javax.swing.JFrame {
            
         try {
             Connect c = new Connect();
-            PreparedStatement ps = c.con.prepareStatement("INSERT INTO patients VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?)");
+            PreparedStatement ps = c.con.prepareStatement("INSERT INTO patients VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)");
             
             ps.setString(1, null);
             ps.setString(2, fn);
