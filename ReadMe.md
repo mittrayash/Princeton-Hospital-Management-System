@@ -84,3 +84,67 @@ This project has been coded and implemented by Yash Mittra only, at this moment.
 ## Authors
 
 * **Yash Mittra**
+
+## Screenshots
+
+!['Could not load image'](/Screenshots/Screenshot%20(8).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(9).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(10).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(11).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(12).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(13).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(14).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(15).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(16).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(17).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(18).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(19).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(20).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(21).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(22).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(23).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(24).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(25).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(26).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(27).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(28).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(29).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(30).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(31).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(32).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(33).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(34).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(35).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(36).png)  
+
+!['Could not load image'](/Screenshots/Screenshot%20(37).png)  
+
+
