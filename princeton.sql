@@ -153,7 +153,7 @@ CREATE TABLE `patients` (
 --
 
 INSERT INTO `patients` (`id`, `fname`, `lname`, `email`, `phone`, `address`, `gender`, `blood`, `weight`, `height`, `birthday`, `nextAppointmentDate`, `Illness`, `doc`) VALUES
-(1, 'Yash', 'Mittra', 'mittrayash@gmail.com', 9999614169, 'Addressssssssandsndsk', 'Male', 'B+', 150, 179, '19-Sep-17', '15-Aug-17', 'I seem fine!', 'user'),
+(1, 'Yash', 'Mittra', 'mittrayash@gmail.com', 9984928629, 'Addressssssssandsndsk', 'Male', 'B+', 150, 179, '19-Sep-17', '15-Aug-17', 'I seem fine!', 'user'),
 (2, 'p1', 'aid', 'lakmsd@idajc.ains', 123123123, 'naaisdjo', 'Male', 'A+', 190, 299, '21-Aug-17', '24-Aug-17', 'no issue', 'user'),
 (3, 'yash', 'kjsd', 'jnsak@jndn', 888838299, 'asdldaknsd', 'Male', 'A+', 239, 199, '28-Sep-17', '28-Sep-17', 'Notes here\n', 'user');
 
